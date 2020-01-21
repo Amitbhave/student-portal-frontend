@@ -1,0 +1,24 @@
+{
+  "name": "student-portal-frontend",
+  "productName": "Student Portal",
+  "version": "1.0.0",
+  "description": "Demo electron application",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^6.0.0",
+    "electron-packager": "^14.0.6"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "electron": "^6.0.0",
+    "jquery": "^3.4.1",
+    "kill-port": "^1.6.0",
+    "tree-kill": "^1.2.2"
+  },
+  "author": "Amit Bhave",
+  "license": "ISC"
+}
