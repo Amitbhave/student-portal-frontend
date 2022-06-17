@@ -5,7 +5,7 @@
   "description": "Demo electron application",
   "main": "main.js",
   "devDependencies": {
-    "electron": "^7.2.4",
+    "electron": "^15.5.5",
     "electron-packager": "^14.0.6"
   },
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "electron": "^7.2.4",
+    "electron": "^15.5.5",
     "jquery": "^3.5.0",
     "kill-port": "^1.6.0",
     "tree-kill": "^1.2.2"
